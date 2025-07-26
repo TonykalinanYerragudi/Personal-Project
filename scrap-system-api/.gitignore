@@ -1,0 +1,42 @@
+# Build and Publish Folders
+bin/
+obj/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Entity Framework
+Migrations/*Snapshot.cs
+
+# Secrets
+appsettings.json
+appsettings.development.json
+
+# SQLite Database
+*.db
+*.db-journal
+scrapify.db
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.temp
+
+# Test Results
+TestResults/
+
+# ASP.NET scaffolding
+ScaffoldingReadMe.txt
