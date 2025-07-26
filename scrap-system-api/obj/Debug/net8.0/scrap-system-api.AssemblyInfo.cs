@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scrap-system-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ad64f555d52e5a79fa9eae93dd4d2392aed4c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c4ebdc0ce93ff12b7ff346e0946eccc578f723a")]
 [assembly: System.Reflection.AssemblyProductAttribute("scrap-system-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scrap-system-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/scrap-system-api.props" />
+</Project>
