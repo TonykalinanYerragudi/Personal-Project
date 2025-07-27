@@ -11,5 +11,7 @@ public class User
   public string? PhoneNumber { get; set; }
   public string? Role { get; set; }
   public DateTime CreatedAt { get; set; }
+  public ICollection<Address>? Addresses { get; set; }
+  public ICollection<PickupRequest>? PickupRequests { get; set; }
 
 }
